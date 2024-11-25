@@ -12,12 +12,12 @@ policy "eyuyrxvd" {
 
 policy "rlotdxdk" {
   enabled = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "yjccfsif" {
   enabled = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "dxvscgna" {
@@ -37,7 +37,7 @@ policy "mdihkvox" {
 
 policy "bhhisghh" {
   enabled = true
-  enforcement_level = "soft-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "esdozbpj" {
@@ -47,17 +47,17 @@ policy "esdozbpj" {
 
 policy "ljnxgonz" {
   enabled = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "pdbltkmh" {
   enabled = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "jdamjwly" {
   enabled = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "gdpqwxsh" {
@@ -67,7 +67,7 @@ policy "gdpqwxsh" {
 
 policy "lrfbhtcx" {
   enabled = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "vjjpiqff" {
@@ -77,7 +77,7 @@ policy "vjjpiqff" {
 
 policy "hnlvszpq" {
   enabled = true
-  enforcement_level = "soft-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "hvomwtzn" {
@@ -87,22 +87,22 @@ policy "hvomwtzn" {
 
 policy "iueaehof" {
   enabled = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "ofjpfejd" {
   enabled = true
-  enforcement_level = "soft-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "kykyhjfc" {
   enabled = true
-  enforcement_level = "soft-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "tddmlhhi" {
   enabled = true
-  enforcement_level = "soft-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "zdwzcqhy" {
@@ -112,17 +112,17 @@ policy "zdwzcqhy" {
 
 policy "kkdsddpx" {
   enabled = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "xupfkwfy" {
   enabled = true
-  enforcement_level = "soft-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "mnpqihvx" {
   enabled = true
-  enforcement_level = "soft-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "cttllnxl" {
@@ -132,22 +132,22 @@ policy "cttllnxl" {
 
 policy "aeeedvoj" {
   enabled = true
-  enforcement_level = "soft-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "lvlzochg" {
   enabled = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "sjkpoeqz" {
   enabled = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "wygpkkzt" {
   enabled = true
-  enforcement_level = "soft-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "ipxwzglr" {
@@ -157,22 +157,22 @@ policy "ipxwzglr" {
 
 policy "uwzuztyj" {
   enabled = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "nzxvtwpf" {
   enabled = true
-  enforcement_level = "soft-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "crctdxqj" {
   enabled = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "haclugwb" {
   enabled = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "fzvzaqde" {
@@ -197,7 +197,7 @@ policy "sbtzdhfe" {
 
 policy "xrvofuzq" {
   enabled = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "gwkovupf" {
@@ -222,12 +222,12 @@ policy "xnjsvrzb" {
 
 policy "uzifvqsk" {
   enabled = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "lmsjurug" {
   enabled = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "vvkxwqmz" {
@@ -242,12 +242,12 @@ policy "vwwtnmyr" {
 
 policy "syjnemuy" {
   enabled = true
-  enforcement_level = "soft-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "fmcsuxmy" {
   enabled = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "evqdtmhh" {
@@ -257,12 +257,12 @@ policy "evqdtmhh" {
 
 policy "qiqyhdfb" {
   enabled = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "mkagwkqr" {
   enabled = true
-  enforcement_level = "soft-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "oilzizzf" {
@@ -272,27 +272,27 @@ policy "oilzizzf" {
 
 policy "cjyackvc" {
   enabled = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "lkycvajs" {
   enabled = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "zzfzvdmu" {
   enabled = true
-  enforcement_level = "soft-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "wwvtlufu" {
   enabled = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "wwrbaqyw" {
   enabled = true
-  enforcement_level = "soft-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "mkfihiwx" {
@@ -302,17 +302,17 @@ policy "mkfihiwx" {
 
 policy "xxysnmab" {
   enabled = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "qtmyasqj" {
   enabled = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "fzvtwezx" {
   enabled = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "xeseowhz" {
@@ -322,17 +322,17 @@ policy "xeseowhz" {
 
 policy "qhpjfail" {
   enabled = true
-  enforcement_level = "soft-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "ujoaugut" {
   enabled = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "murvsaim" {
   enabled = true
-  enforcement_level = "soft-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "ltqosazi" {
@@ -342,42 +342,42 @@ policy "ltqosazi" {
 
 policy "mgneavlq" {
   enabled = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "buxkrylt" {
   enabled = true
-  enforcement_level = "soft-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "syfohvnq" {
   enabled = true
-  enforcement_level = "soft-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "vtpoggnx" {
   enabled = true
-  enforcement_level = "soft-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "boqiaoiq" {
   enabled = true
-  enforcement_level = "soft-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "yflggnvu" {
   enabled = true
-  enforcement_level = "soft-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "qpixfnwf" {
   enabled = true
-  enforcement_level = "soft-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "styqtxac" {
   enabled = true
-  enforcement_level = "soft-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "uemohuji" {
@@ -387,12 +387,12 @@ policy "uemohuji" {
 
 policy "gaafmfqt" {
   enabled = true
-  enforcement_level = "soft-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "rqhceppb" {
   enabled = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "exhdfakq" {
@@ -402,22 +402,22 @@ policy "exhdfakq" {
 
 policy "cdjcjgfg" {
   enabled = true
-  enforcement_level = "soft-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "gzngbvoq" {
   enabled = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "lkaajsnt" {
   enabled = true
-  enforcement_level = "soft-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "zijlipcj" {
   enabled = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "gxjjjipf" {
@@ -427,22 +427,22 @@ policy "gxjjjipf" {
 
 policy "tlckehjq" {
   enabled = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "ixzvljde" {
   enabled = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "anybizej" {
   enabled = true
-  enforcement_level = "soft-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "lkysdxah" {
   enabled = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "lmzvatgt" {
@@ -452,17 +452,17 @@ policy "lmzvatgt" {
 
 policy "hgqqtvxv" {
   enabled = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "samkwxid" {
   enabled = true
-  enforcement_level = "soft-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "bmtahymh" {
   enabled = true
-  enforcement_level = "soft-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "qfmuhqqt" {
@@ -472,12 +472,12 @@ policy "qfmuhqqt" {
 
 policy "bwqqzykv" {
   enabled = true
-  enforcement_level = "soft-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "gnzspmco" {
   enabled = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "ehqqqkyn" {
@@ -487,16 +487,16 @@ policy "ehqqqkyn" {
 
 policy "afdkxfcs" {
   enabled = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "qibouqam" {
   enabled = true
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "advisory"
 }
 
 policy "gdqyrrci" {
   enabled = true
-  enforcement_level = "soft-mandatory"
+  enforcement_level = "advisory"
 }
 
