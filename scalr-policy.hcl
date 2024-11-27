@@ -7,7 +7,7 @@ policy "bgvaxpsg" {
 
 policy "eyuyrxvd" {
   enabled = true
-  enforcement_level = "advisory"
+  enforcement_level = "soft-mandatory"
 }
 
 policy "rlotdxdk" {
